@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "belt",
+      "category": "Others",
+      "date": "2022-12-02T18:30:00.000Z",
+      "freshness": "BrandNew",
+      "price": 350,
+      "comment": "this is belt",
+      "id": 4
+    },
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "date": "2022-12-02T18:30:00.000Z",
+      "freshness": "BrandNew",
+      "price": 250,
+      "comment": "this is apple",
+      "id": 6
+    },
+    {
+      "productName": "brush",
+      "category": "Others",
+      "date": "2022-12-08T18:30:00.000Z",
+      "freshness": "BrandNew",
+      "price": 20,
+      "comment": "this is brush",
+      "id": 7
+    },
+    {
+      "productName": "toothpaste",
+      "category": "Others",
+      "date": "2022-12-08T18:30:00.000Z",
+      "freshness": "BrandNew",
+      "price": 100,
+      "comment": "toothpaste",
+      "id": 8
+    },
+    {
+      "productName": "earphone",
+      "category": "Electronics",
+      "date": "2023-01-03T18:30:00.000Z",
+      "freshness": "Refurbiushed",
+      "price": 1999,
+      "comment": "oneplus",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
